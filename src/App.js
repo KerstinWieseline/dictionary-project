@@ -11,7 +11,16 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Kerstin Wiessmann</small>
+          <small>
+            Coded by Kerstin Wiessmann and is{" "}
+            <a
+              href="https://github.com/KerstinWieseline/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-sourced on GitHub
+            </a>
+          </small>
         </footer>
       </div>
     </div>
