@@ -1,8 +1,17 @@
-.App-header {
-    margin: 30px 0;
+body {
+    background: #f7edf6;
 }
+a {
+    color: #cc76c6;
+}
+.App {
+  padding: 60px 0 100px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-main {
-    text-align: center;
+    text-align: left;
 }
 .App-footer {
     text-align: center;

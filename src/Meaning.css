@@ -1,0 +1,11 @@
+.Meaning .definition {
+    font-weight: normal;
+}
+
+
+.Meaning .example {
+    font-style: italic;
+    color: #666666;
+    font-size: 15px;
+    margin-top: 15px;
+}
