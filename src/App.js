@@ -9,7 +9,6 @@ function App() {
         <header className="App-header"></header>
         <main className="App-main">
           <Dictionary defaultKeyword="flower" />
-          
         </main>
         <footer className="App-footer">
           <small>
@@ -20,6 +19,14 @@ function App() {
               rel="noreferrer"
             >
               open-sourced on GitHub
+            </a>
+            and hosted on{" "}
+            <a
+              href="https://kerstinsdictionary.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify!
             </a>
           </small>
         </footer>
